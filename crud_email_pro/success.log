@@ -1,0 +1,19 @@
+INFO 2023-12-26 11:10:31,068 views  success_logger Book with id 1 created successfully
+INFO 2023-12-26 11:11:01,498 views  success_logger Book with id 2 created successfully
+INFO 2023-12-26 11:11:07,358 views  success_logger Books fetched successfully
+INFO 2023-12-26 11:11:23,723 views  success_logger Book with id 3 created successfully
+INFO 2023-12-26 11:12:28,148 views  success_logger Books updated: Library object (3)
+INFO 2023-12-26 11:12:39,750 views  success_logger Books deleted successfully: 3
+INFO 2023-12-26 11:12:51,485 views  success_logger Books fetched successfully
+INFO 2023-12-26 11:46:44,380 views  success_logger Books fetched successfully
+INFO 2023-12-26 11:47:34,662 views  success_logger Book with id 4 created successfully
+INFO 2023-12-26 11:47:54,690 views  success_logger Books updated: Library object (4)
+INFO 2023-12-26 11:48:01,080 views  success_logger Books deleted successfully: 4
+INFO 2023-12-26 11:48:17,525 views  success_logger Books deleted successfully: 4
+INFO 2023-12-27 01:03:06,112 views  success_logger Book with id 5 created successfully
+INFO 2023-12-27 01:06:25,700 views  success_logger Books updated: Library object (5)
+INFO 2023-12-27 01:09:43,058 views  success_logger Books deleted successfully: 5
+INFO 2023-12-27 01:11:12,125 views  success_logger Books fetched successfully
+INFO 2023-12-27 09:38:06,058 views  success_logger The user with username: userw created successfully
+INFO 2023-12-27 09:39:03,184 views  success_logger The user with username: userrr created successfully
+INFO 2023-12-27 09:40:08,145 views  success_logger Books fetched successfully

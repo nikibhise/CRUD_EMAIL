@@ -1,0 +1,30 @@
+ERROR 2023-12-26 11:48:24,784 views  error_logger Failed to delete book
+ERROR 2023-12-26 11:49:05,353 views  error_logger Failed to create book : {'author': [ErrorDetail(string='This field may not be blank.', code='blank')]}
+ERROR 2023-12-26 21:43:42,695 views  error_logger Error saving th user data {}
+ERROR 2023-12-26 21:48:46,234 views  error_logger Error saving th user data {'username': [ErrorDetail(string='A user with that username already exists.', code='unique')]}
+ERROR 2023-12-26 21:49:05,597 views  error_logger Error saving th user data {}
+ERROR 2023-12-26 21:51:25,327 views  error_logger Error saving th user data {'username': [ErrorDetail(string='A user with that username already exists.', code='unique')]}
+ERROR 2023-12-26 21:51:37,095 views  error_logger Error saving th user data {}
+ERROR 2023-12-26 21:53:07,530 views  error_logger Error saving th user data {'username': [ErrorDetail(string='A user with that username already exists.', code='unique')]}
+ERROR 2023-12-26 21:53:13,954 views  error_logger Error saving th user data {}
+ERROR 2023-12-26 22:01:27,942 views  error_logger Error saving th user data {}
+ERROR 2023-12-26 22:01:43,453 views  error_logger Error saving th user data {'username': [ErrorDetail(string='A user with that username already exists.', code='unique')]}
+ERROR 2023-12-26 22:03:44,298 views  error_logger Error saving th user data {}
+ERROR 2023-12-26 22:04:00,809 views  error_logger Error saving th user data {'username': [ErrorDetail(string='A user with that username already exists.', code='unique')]}
+ERROR 2023-12-26 22:57:58,561 views  error_logger Error saving th user data {}
+ERROR 2023-12-26 22:58:18,493 views  error_logger Error saving th user data {'username': [ErrorDetail(string='A user with that username already exists.', code='unique')]}
+ERROR 2023-12-26 22:58:26,599 views  error_logger Error saving th user data {}
+ERROR 2023-12-27 01:07:36,615 views  error_logger Failed to delete book
+ERROR 2023-12-27 01:07:48,467 views  error_logger Failed to delete book
+ERROR 2023-12-27 01:07:56,384 views  error_logger Failed to delete book
+ERROR 2023-12-27 01:08:51,531 views  error_logger Failed to delete book
+ERROR 2023-12-27 01:11:34,416 views  error_logger Failed to delete book
+ERROR 2023-12-27 01:13:26,206 views  error_logger Error saving th user data {'username': [ErrorDetail(string='A user with that username already exists.', code='unique')]}
+ERROR 2023-12-27 01:13:35,192 views  error_logger Error saving th user data {}
+ERROR 2023-12-27 01:14:26,088 views  error_logger Error saving th user data {}
+ERROR 2023-12-27 01:14:28,994 views  error_logger Error saving th user data {'username': [ErrorDetail(string='A user with that username already exists.', code='unique')]}
+ERROR 2023-12-27 01:16:39,270 views  error_logger Error saving th user data {}
+ERROR 2023-12-27 09:35:08,074 views  error_logger Error saving th user data {'username': [ErrorDetail(string='A user with that username already exists.', code='unique')]}
+ERROR 2023-12-27 09:35:18,387 views  error_logger Error saving th user data {}
+ERROR 2023-12-27 09:37:57,739 views  error_logger Error saving th user data {'username': [ErrorDetail(string='A user with that username already exists.', code='unique')]}
+ERROR 2023-12-27 09:40:24,875 views  error_logger Failed to delete book
